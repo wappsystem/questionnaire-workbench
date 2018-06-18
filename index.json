@@ -4,7 +4,6 @@
         "workbench":            {                      "url":"modules/workbench.html"},
         "participant-data":     {"table_id":"20011563","url":"https://codepen.io/wappsystem/pen/eKeGEJ.html","form_module":"participant-form"},
         "participant-form":     {"table_id":"20011563","url":"https://codepen.io/wappsystem/pen/aKVLqJ.html"},
-        "_notes-data":          {"table_id":"20011473","url":"https://codepen.io/vmiis/pen/XYzmyP.html"},
         "isi-data":             {"table_id":"20011565","url":"https://codepen.io/wappsystem/pen/MXOENb.html","form_module":"isi-form"},
         "isi-form":             {"table_id":"20011565","url":"https://codepen.io/wappsystem/pen/OEOOJK.html"}
 	}
